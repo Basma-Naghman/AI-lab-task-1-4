@@ -1,0 +1,3 @@
+living room  : 22 ==> turn of the heater
+kitchen  : 10 ==> turn on the heater 
+bedroom : 18 ==> turn of the heater
